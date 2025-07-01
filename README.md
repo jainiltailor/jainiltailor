@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainiltailor&label=Profile%20views&color=0e75b6&style=flat" alt="jainiltailor" /> </p>
 
-- 👨‍💻 All of my projects are available at [jainiltailor.netlify.app](jainiltailor.netlify.app)
+- 👨‍💻 All of my projects are available at [jainiltailor.netlify.app](https://jainiltailor.netlify.app/)
 
 - 📫 How to reach me **jk.tailor1734@gamil.com**
 
